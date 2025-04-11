@@ -162,3 +162,9 @@ Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVer
 15:46:45.564 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Entering Account Details *****
 15:46:52.634 [main] INFO  testCases.TC002_OpenKartLogin - ********* TC002 starting login scenario ********
 15:47:08.791 [main] INFO  testCases.TC002_OpenKartLogin - ********* TC002 login scenario completed ********
+22:30:07.854 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Starting TC001_OpenKartFirstTestCase *****
+22:30:22.404 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** My Account clicked *****
+22:31:15.036 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Register clicked *****
+22:32:05.050 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Entering Account Details *****
+22:32:20.588 [main] INFO  testCases.TC002_OpenKartLogin - ********* TC002 starting login scenario ********
+22:32:42.324 [main] INFO  testCases.TC002_OpenKartLogin - ********* TC002 login scenario completed ********
