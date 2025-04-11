@@ -1,0 +1,450 @@
+11:10:36.839 [main] INFO  - ***** Starting TC001_OpenKartFirstTestCase *****
+11:10:50.648 [main] INFO  - ***** My Account clicked *****
+11:11:42.516 [main] INFO  - ***** Register clicked *****
+11:12:32.530 [main] INFO  - ***** Entering Account Details *****
+19:47:00.323 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Starting TC001_OpenKartFirstTestCase *****
+19:47:14.192 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** My Account clicked *****
+19:48:06.472 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Register clicked *****
+19:48:56.484 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Entering Account Details *****
+21:41:06.283 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Starting TC001_OpenKartFirstTestCase *****
+21:41:20.251 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** My Account clicked *****
+21:42:12.729 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Register clicked *****
+21:43:02.743 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Entering Account Details *****
+21:51:40.434 [TestNG-test-chrome-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Starting TC001_OpenKartFirstTestCase *****
+21:51:54.170 [TestNG-test-chrome-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** My Account clicked *****
+21:52:46.232 [TestNG-test-chrome-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Register clicked *****
+21:53:36.244 [TestNG-test-chrome-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Entering Account Details *****
+21:56:08.550 [TestNG-tests-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Starting TC001_OpenKartFirstTestCase *****
+21:56:17.864 [TestNG-tests-2] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Starting TC001_OpenKartFirstTestCase *****
+21:56:24.710 [TestNG-tests-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** My Account clicked *****
+21:56:36.451 [TestNG-tests-2] INFO  testCases.TC001_OpenKartFirstTestCase - ***** My Account clicked *****
+21:56:45.115 [TestNG-tests-3] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Starting TC001_OpenKartFirstTestCase *****
+21:56:58.490 [TestNG-tests-3] INFO  testCases.TC001_OpenKartFirstTestCase - ***** My Account clicked *****
+21:57:17.800 [TestNG-tests-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Register clicked *****
+21:57:30.139 [TestNG-tests-2] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Register clicked *****
+21:57:49.023 [TestNG-tests-3] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Register clicked *****
+21:58:07.820 [TestNG-tests-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Entering Account Details *****
+21:58:20.150 [TestNG-tests-2] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Entering Account Details *****
+21:58:39.030 [TestNG-tests-3] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Entering Account Details *****
+21:59:20.390 [TestNG-tests-3] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Starting TC001_OpenKartFirstTestCase *****
+21:59:23.788 [TestNG-tests-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Starting TC001_OpenKartFirstTestCase *****
+21:59:24.387 [TestNG-tests-2] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Starting TC001_OpenKartFirstTestCase *****
+21:59:32.687 [TestNG-tests-3] INFO  testCases.TC001_OpenKartFirstTestCase - ***** My Account clicked *****
+21:59:39.287 [TestNG-tests-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** My Account clicked *****
+21:59:42.220 [TestNG-tests-2] INFO  testCases.TC001_OpenKartFirstTestCase - ***** My Account clicked *****
+22:00:23.467 [TestNG-tests-3] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Register clicked *****
+22:00:34.258 [TestNG-tests-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Register clicked *****
+22:00:36.173 [TestNG-tests-2] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Register clicked *****
+22:01:13.502 [TestNG-tests-3] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Entering Account Details *****
+22:01:24.271 [TestNG-tests-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Entering Account Details *****
+22:01:26.172 [TestNG-tests-2] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Entering Account Details *****
+11:53:56.986 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Starting TC001_OpenKartFirstTestCase *****
+11:53:57.023 [main] ERROR testCases.TC001_OpenKartFirstTestCase - null
+20:24:47.868 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Starting TC001_OpenKartFirstTestCase *****
+20:24:47.923 [main] ERROR testCases.TC001_OpenKartFirstTestCase - null
+20:26:25.809 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Starting TC001_OpenKartFirstTestCase *****
+20:26:37.682 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** My Account clicked *****
+20:27:28.289 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Register clicked *****
+20:28:18.311 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Entering Account Details *****
+20:33:59.198 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Starting TC001_OpenKartFirstTestCase *****
+20:34:10.862 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** My Account clicked *****
+20:35:01.719 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Register clicked *****
+20:35:51.764 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Entering Account Details *****
+20:36:10.067 [main] INFO  testCases.TC002_OpenKartLogin - ********* TC002 starting login scenario ********
+20:37:04.796 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Starting TC001_OpenKartFirstTestCase *****
+20:37:16.562 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** My Account clicked *****
+20:38:07.331 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Register clicked *****
+20:38:57.355 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Entering Account Details *****
+20:39:12.986 [main] INFO  testCases.TC002_OpenKartLogin - ********* TC002 starting login scenario ********
+20:40:26.770 [main] INFO  testCases.TC002_OpenKartLogin - ********* TC002 starting login scenario ********
+20:41:17.514 [main] INFO  testCases.TC002_OpenKartLogin - ********* TC002 starting login scenario ********
+20:43:11.947 [main] INFO  testCases.TC002_OpenKartLogin - ********* TC002 starting login scenario ********
+20:43:24.856 [main] INFO  testCases.TC002_OpenKartLogin - ********* TC002 login scenario completed ********
+21:19:07.434 [TestNG-tests-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Starting TC001_OpenKartFirstTestCase *****
+21:19:20.340 [TestNG-tests-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** My Account clicked *****
+21:19:48.600 [TestNG-tests-3] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Starting TC001_OpenKartFirstTestCase *****
+21:20:01.051 [TestNG-tests-3] INFO  testCases.TC001_OpenKartFirstTestCase - ***** My Account clicked *****
+21:20:12.072 [TestNG-tests-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Register clicked *****
+21:20:26.948 [TestNG-tests-2] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Starting TC001_OpenKartFirstTestCase *****
+21:20:42.344 [TestNG-tests-2] INFO  testCases.TC001_OpenKartFirstTestCase - ***** My Account clicked *****
+21:20:51.583 [TestNG-tests-3] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Register clicked *****
+21:21:02.088 [TestNG-tests-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Entering Account Details *****
+21:21:17.342 [TestNG-tests-1] INFO  testCases.TC002_OpenKartLogin - ********* TC002 starting login scenario ********
+21:21:35.020 [TestNG-tests-2] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Register clicked *****
+21:21:41.587 [TestNG-tests-3] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Entering Account Details *****
+21:21:52.488 [TestNG-tests-3] INFO  testCases.TC002_OpenKartLogin - ********* TC002 starting login scenario ********
+21:22:25.027 [TestNG-tests-2] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Entering Account Details *****
+21:22:41.420 [TestNG-tests-2] INFO  testCases.TC002_OpenKartLogin - ********* TC002 starting login scenario ********
+21:43:34.952 [TestNG-tests-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Starting TC001_OpenKartFirstTestCase *****
+21:43:48.123 [TestNG-tests-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** My Account clicked *****
+21:44:21.889 [TestNG-tests-3] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Starting TC001_OpenKartFirstTestCase *****
+21:44:33.802 [TestNG-tests-3] INFO  testCases.TC001_OpenKartFirstTestCase - ***** My Account clicked *****
+21:44:39.486 [TestNG-tests-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Register clicked *****
+21:45:01.856 [TestNG-tests-2] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Starting TC001_OpenKartFirstTestCase *****
+21:45:18.017 [TestNG-tests-2] INFO  testCases.TC001_OpenKartFirstTestCase - ***** My Account clicked *****
+21:45:24.461 [TestNG-tests-3] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Register clicked *****
+21:45:29.501 [TestNG-tests-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Entering Account Details *****
+21:45:43.365 [TestNG-tests-1] INFO  testCases.TC002_OpenKartLogin - ********* TC002 starting login scenario ********
+21:46:01.600 [TestNG-tests-1] INFO  testCases.TC002_OpenKartLogin - ********* TC002 login scenario completed ********
+21:46:11.643 [TestNG-tests-2] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Register clicked *****
+21:46:14.466 [TestNG-tests-3] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Entering Account Details *****
+21:46:26.198 [TestNG-tests-3] INFO  testCases.TC002_OpenKartLogin - ********* TC002 starting login scenario ********
+21:46:44.922 [TestNG-tests-3] INFO  testCases.TC002_OpenKartLogin - ********* TC002 login scenario completed ********
+21:47:01.648 [TestNG-tests-2] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Entering Account Details *****
+21:47:19.249 [TestNG-tests-2] INFO  testCases.TC002_OpenKartLogin - ********* TC002 starting login scenario ********
+21:47:44.055 [TestNG-tests-2] INFO  testCases.TC002_OpenKartLogin - ********* TC002 login scenario completed ********
+22:00:09.276 [TestNG-tests-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Starting TC001_OpenKartFirstTestCase *****
+22:00:23.481 [TestNG-tests-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** My Account clicked *****
+22:00:53.475 [TestNG-tests-3] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Starting TC001_OpenKartFirstTestCase *****
+22:01:06.553 [TestNG-tests-3] INFO  testCases.TC001_OpenKartFirstTestCase - ***** My Account clicked *****
+22:01:20.978 [TestNG-tests-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Register clicked *****
+22:01:55.570 [TestNG-tests-2] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Starting TC001_OpenKartFirstTestCase *****
+22:01:57.974 [TestNG-tests-3] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Register clicked *****
+22:02:07.487 [TestNG-tests-2] INFO  testCases.TC001_OpenKartFirstTestCase - ***** My Account clicked *****
+22:02:11.005 [TestNG-tests-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Entering Account Details *****
+22:02:27.238 [TestNG-tests-1] INFO  testCases.TC002_OpenKartLogin - ********* TC002 starting login scenario ********
+22:02:46.071 [TestNG-tests-1] INFO  testCases.TC002_OpenKartLogin - ********* TC002 login scenario completed ********
+22:02:47.979 [TestNG-tests-3] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Entering Account Details *****
+22:02:58.573 [TestNG-tests-2] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Register clicked *****
+22:03:02.666 [TestNG-tests-3] INFO  testCases.TC002_OpenKartLogin - ********* TC002 starting login scenario ********
+22:03:22.286 [TestNG-tests-3] INFO  testCases.TC002_OpenKartLogin - ********* TC002 login scenario completed ********
+22:03:48.580 [TestNG-tests-2] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Entering Account Details *****
+22:04:04.816 [TestNG-tests-2] INFO  testCases.TC002_OpenKartLogin - ********* TC002 starting login scenario ********
+22:04:24.802 [TestNG-tests-2] INFO  testCases.TC002_OpenKartLogin - ********* TC002 login scenario completed ********
+17:05:02.828 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+17:05:02.981 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+17:05:03.011 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+17:05:03.031 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+17:05:03.045 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+17:05:03.060 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+17:06:25.389 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+17:06:28.462 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+17:06:33.187 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+17:06:33.209 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+17:06:37.751 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+17:06:37.759 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+17:06:42.080 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+17:06:42.093 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+17:06:42.706 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+17:11:11.395 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+17:11:17.564 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+17:11:17.610 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+17:11:22.311 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+17:11:22.339 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+17:11:27.249 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+17:11:27.279 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+17:11:31.375 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+17:11:31.386 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+17:11:32.984 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+17:11:37.251 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+17:12:52.863 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+17:12:58.936 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+17:12:58.957 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+17:13:03.751 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+17:13:03.756 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+17:13:08.256 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+17:13:08.269 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+17:13:12.386 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+17:13:12.395 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+17:13:13.246 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+17:40:45.096 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+17:40:51.143 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+17:40:51.164 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+17:40:55.782 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+17:40:55.807 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+17:41:00.692 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+17:41:00.709 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+17:41:05.198 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+17:41:05.211 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+17:41:05.877 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+17:42:53.534 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+17:42:59.546 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+17:42:59.564 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+17:43:04.212 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+17:43:04.230 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+17:43:08.843 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+17:43:08.858 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+17:43:13.004 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+17:43:13.015 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+17:43:17.644 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+17:43:17.665 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+17:43:21.927 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+19:31:15.129 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Starting TC001_OpenKartFirstTestCase *****
+19:31:26.914 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** My Account clicked *****
+19:32:17.514 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Register clicked *****
+19:33:07.540 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Entering Account Details *****
+19:33:23.029 [main] INFO  testCases.TC002_OpenKartLogin - ********* TC002 starting login scenario ********
+19:33:41.409 [main] INFO  testCases.TC002_OpenKartLogin - ********* TC002 login scenario completed ********
+19:39:51.988 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+19:39:57.943 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+19:39:57.971 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+19:40:02.488 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+19:40:02.496 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+19:40:09.614 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+19:40:09.632 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+19:40:14.019 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+19:40:14.030 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+19:40:19.049 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+19:40:19.070 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+19:40:23.334 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+20:00:52.966 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+20:00:59.066 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+20:00:59.098 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+20:01:03.704 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+20:01:03.723 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+20:01:08.389 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+20:01:08.403 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+20:01:12.520 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+20:01:12.532 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+20:01:13.250 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+21:34:59.962 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+21:35:08.502 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+21:35:08.531 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+21:35:14.518 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+21:35:14.532 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+21:35:20.094 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+21:35:20.114 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+21:35:23.774 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+21:35:23.785 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+21:35:24.422 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+21:36:25.665 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+21:36:31.574 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+21:36:31.628 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+21:36:36.166 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+21:36:36.177 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+21:36:40.841 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+21:36:40.857 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+21:36:44.922 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+21:36:44.935 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+21:36:46.917 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+21:41:26.419 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+21:41:37.173 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+21:41:37.216 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+21:41:44.667 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+21:41:44.693 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+21:41:50.901 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+21:41:50.917 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+21:41:55.199 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+21:41:55.213 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+21:42:00.058 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+21:42:00.081 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+21:42:04.430 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+21:43:13.264 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+21:43:23.571 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+21:43:23.617 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+21:43:30.493 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+21:43:30.509 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+21:43:36.107 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+21:43:36.124 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+21:43:40.463 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+21:43:40.476 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+21:43:45.321 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+21:43:45.345 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+21:43:49.593 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+21:47:55.546 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+21:48:05.680 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+21:48:05.724 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+21:48:13.010 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+21:48:13.031 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+21:48:18.309 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+21:48:18.321 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+21:48:22.480 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+21:48:22.492 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+21:48:27.194 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+21:48:27.203 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+21:48:33.190 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+21:50:09.872 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+21:50:20.098 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+21:50:20.145 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+21:50:27.139 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+21:50:27.164 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+21:50:32.637 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+21:50:32.658 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+21:50:37.037 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+21:50:37.049 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+21:50:39.057 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+21:50:43.487 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+21:54:34.660 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Starting TC001_OpenKartFirstTestCase *****
+21:54:48.721 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** My Account clicked *****
+21:55:41.742 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Register clicked *****
+21:56:31.760 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Entering Account Details *****
+21:56:47.054 [main] INFO  testCases.TC002_OpenKartLogin - ********* TC002 starting login scenario ********
+21:57:09.375 [main] INFO  testCases.TC002_OpenKartLogin - ********* TC002 login scenario completed ********
+21:57:16.627 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+21:57:27.439 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+21:57:27.468 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+21:57:34.861 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+21:57:34.876 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+21:57:40.209 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+21:57:40.232 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+21:57:44.865 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+21:57:44.891 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+21:57:49.653 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+21:57:49.662 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+21:57:55.126 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+13:48:14.998 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Starting TC001_OpenKartFirstTestCase *****
+13:48:29.564 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** My Account clicked *****
+13:49:22.164 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Register clicked *****
+13:50:12.175 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Entering Account Details *****
+13:50:26.818 [main] INFO  testCases.TC002_OpenKartLogin - ********* TC002 starting login scenario ********
+13:50:48.987 [main] INFO  testCases.TC002_OpenKartLogin - ********* TC002 login scenario completed ********
+13:50:56.238 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+13:51:06.095 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+13:51:06.121 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+13:51:13.515 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+13:51:13.534 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+13:51:20.037 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+13:51:20.062 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+13:51:24.767 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+13:51:24.792 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+13:51:26.652 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+16:36:25.884 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Starting TC001_OpenKartFirstTestCase *****
+16:36:39.721 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** My Account clicked *****
+16:37:32.162 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Register clicked *****
+16:38:22.187 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Entering Account Details *****
+16:38:38.425 [main] INFO  testCases.TC002_OpenKartLogin - ********* TC002 starting login scenario ********
+16:39:00.917 [main] INFO  testCases.TC002_OpenKartLogin - ********* TC002 login scenario completed ********
+16:39:08.745 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+16:39:18.853 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+16:39:18.888 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+16:39:25.831 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+16:39:25.854 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+16:39:32.282 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+16:39:32.309 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+16:39:36.799 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+16:39:36.837 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+16:39:41.829 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+16:39:41.866 [main] INFO  testCases.TC003_LoginDDT - ***** stating TC_003_LoginDDT ******
+16:39:46.308 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT ******
+16:44:12.719 [TestNG-tests-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Starting TC001_OpenKartFirstTestCase *****
+16:44:27.674 [TestNG-tests-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** My Account clicked *****
+16:45:20.784 [TestNG-tests-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Register clicked *****
+16:45:28.312 [TestNG-tests-2] INFO  testCases.TC002_OpenKartLogin - ********* TC002 starting login scenario ********
+16:45:55.433 [TestNG-tests-2] INFO  testCases.TC002_OpenKartLogin - ********* TC002 login scenario completed ********
+16:46:10.810 [TestNG-tests-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Entering Account Details *****
+16:46:10.930 [TestNG-tests-1] ERROR testCases.TC001_OpenKartFirstTestCase - Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '15.4', java.version: '11.0.14'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=xpath, value=//input[@name='firstname']}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 135.0.3179.54, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:60540}, msedge: {msedgedriverVersion: 135.0.3179.54 (c435295f8c13..., userDataDir: /var/folders/jf/xpfp6pcx7z7...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.29.159:4444/se..., se:cdpVersion: 135.0.3179.54, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+16:51:44.810 [TestNG-tests-3] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Starting TC001_OpenKartFirstTestCase *****
+16:51:44.869 [TestNG-tests-3] ERROR testCases.TC001_OpenKartFirstTestCase - null
+16:51:55.900 [TestNG-tests-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Starting TC001_OpenKartFirstTestCase *****
+16:51:55.898 [TestNG-tests-2] INFO  testCases.TC002_OpenKartLogin - ********* TC002 starting login scenario ********
+16:52:12.409 [TestNG-tests-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** My Account clicked *****
+16:53:02.444 [TestNG-tests-1] ERROR testCases.TC001_OpenKartFirstTestCase - Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '15.4', java.version: '11.0.14'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=xpath, value=//*[@id="top-links"]/ul/li[2]/ul/li[1]/a}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 135.0.3179.54, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:60729}, msedge: {msedgedriverVersion: 135.0.3179.54 (c435295f8c13..., userDataDir: /var/folders/jf/xpfp6pcx7z7...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.29.159:4444/se..., se:cdpVersion: 135.0.3179.54, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+17:12:54.439 [TestNG-tests-3] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Starting TC001_OpenKartFirstTestCase *****
+17:13:07.505 [TestNG-tests-3] INFO  testCases.TC001_OpenKartFirstTestCase - ***** My Account clicked *****
+17:14:00.664 [TestNG-tests-3] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Register clicked *****
+17:14:50.983 [TestNG-tests-3] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Entering Account Details *****
+17:15:19.257 [TestNG-tests-3] INFO  testCases.TC002_OpenKartLogin - ********* TC002 starting login scenario ********
+17:15:39.996 [TestNG-tests-3] INFO  testCases.TC002_OpenKartLogin - ********* TC002 login scenario completed ********
+17:18:44.361 [TestNG-tests-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Starting TC001_OpenKartFirstTestCase *****
+17:18:59.693 [TestNG-tests-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** My Account clicked *****
+17:19:05.176 [TestNG-tests-2] INFO  testCases.TC002_OpenKartLogin - ********* TC002 starting login scenario ********
+17:19:33.895 [TestNG-tests-2] INFO  testCases.TC002_OpenKartLogin - ********* TC002 login scenario completed ********
+17:19:51.892 [TestNG-tests-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Register clicked *****
+17:20:41.900 [TestNG-tests-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Entering Account Details *****
+17:20:41.983 [TestNG-tests-1] ERROR testCases.TC001_OpenKartFirstTestCase - Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '15.4', java.version: '11.0.14'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [null, findElement {value=//input[@name='firstname'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 135.0.3179.54, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:62634}, msedge: {msedgedriverVersion: 135.0.3179.54 (c435295f8c13..., userDataDir: /var/folders/jf/xpfp6pcx7z7...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:62634/devtoo..., se:cdpVersion: 135.0.3179.54, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+19:02:43.443 [TestNG-tests-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Starting TC001_OpenKartFirstTestCase *****
+19:02:49.251 [TestNG-tests-3] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Starting TC001_OpenKartFirstTestCase *****
+19:03:02.330 [TestNG-tests-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** My Account clicked *****
+19:03:03.881 [TestNG-tests-3] INFO  testCases.TC001_OpenKartFirstTestCase - ***** My Account clicked *****
+19:03:56.172 [TestNG-tests-3] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Register clicked *****
+19:03:58.765 [TestNG-tests-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Register clicked *****
+19:04:34.218 [TestNG-tests-2] INFO  testCases.TC002_OpenKartLogin - ********* TC002 starting login scenario ********
+19:04:46.202 [TestNG-tests-3] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Entering Account Details *****
+19:04:46.446 [TestNG-tests-3] ERROR testCases.TC001_OpenKartFirstTestCase - no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='firstname']"}
+  (Session info: MicrosoftEdge=135.0.3179.54)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '15.4', java.version: '11.0.14'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [02e6b20b504db159094edadfac1cdb72, findElement {value=//input[@name='firstname'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 135.0.3179.54, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:63139}, msedge: {msedgedriverVersion: 135.0.3179.54 (c435295f8c13..., userDataDir: /var/folders/jf/xpfp6pcx7z7...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:63139/devtoo..., se:cdpVersion: 135.0.3179.54, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 02e6b20b504db159094edadfac1cdb72
+19:04:48.779 [TestNG-tests-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Entering Account Details *****
+19:04:48.797 [TestNG-tests-1] ERROR testCases.TC001_OpenKartFirstTestCase - Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '15.4', java.version: '11.0.14'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [null, findElement {value=//input[@name='firstname'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 135.0.3179.54, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:63139}, msedge: {msedgedriverVersion: 135.0.3179.54 (c435295f8c13..., userDataDir: /var/folders/jf/xpfp6pcx7z7...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:63139/devtoo..., se:cdpVersion: 135.0.3179.54, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+19:04:56.795 [TestNG-tests-3] INFO  testCases.TC002_OpenKartLogin - ********* TC002 starting login scenario ********
+19:05:15.782 [TestNG-tests-3] INFO  testCases.TC002_OpenKartLogin - ********* TC002 login scenario completed ********
+19:07:22.367 [TestNG-tests-3] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Starting TC001_OpenKartFirstTestCase *****
+19:07:22.896 [TestNG-tests-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Starting TC001_OpenKartFirstTestCase *****
+19:07:36.390 [TestNG-tests-3] INFO  testCases.TC001_OpenKartFirstTestCase - ***** My Account clicked *****
+19:07:39.397 [TestNG-tests-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** My Account clicked *****
+19:08:28.214 [TestNG-tests-3] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Register clicked *****
+19:08:36.440 [TestNG-tests-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Register clicked *****
+19:09:18.236 [TestNG-tests-3] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Entering Account Details *****
+19:09:26.473 [TestNG-tests-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Entering Account Details *****
+19:09:26.591 [TestNG-tests-2] INFO  testCases.TC002_OpenKartLogin - ********* TC002 starting login scenario ********
+19:09:26.888 [TestNG-tests-1] ERROR testCases.TC001_OpenKartFirstTestCase - no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='firstname']"}
+  (Session info: MicrosoftEdge=135.0.3179.54)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '15.4', java.version: '11.0.14'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [114f311ffb0681c3cebcb5d42bd0f777, findElement {using=xpath, value=//input[@name='firstname']}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 135.0.3179.54, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:63834}, msedge: {msedgedriverVersion: 135.0.3179.54 (c435295f8c13..., userDataDir: /var/folders/jf/xpfp6pcx7z7...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:63834/devtoo..., se:cdpVersion: 135.0.3179.54, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 114f311ffb0681c3cebcb5d42bd0f777
+19:09:40.195 [TestNG-tests-3] INFO  testCases.TC002_OpenKartLogin - ********* TC002 starting login scenario ********
+19:09:59.748 [TestNG-tests-3] INFO  testCases.TC002_OpenKartLogin - ********* TC002 login scenario completed ********
+21:37:55.694 [TestNG-tests-3] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Starting TC001_OpenKartFirstTestCase *****
+21:38:09.302 [TestNG-tests-3] INFO  testCases.TC001_OpenKartFirstTestCase - ***** My Account clicked *****
+21:39:03.059 [TestNG-tests-3] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Register clicked *****
+21:39:53.570 [TestNG-tests-3] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Entering Account Details *****
+21:40:28.334 [TestNG-tests-3] INFO  testCases.TC002_OpenKartLogin - ********* TC002 starting login scenario ********
+21:40:48.767 [TestNG-tests-3] INFO  testCases.TC002_OpenKartLogin - ********* TC002 login scenario completed ********
+21:41:46.369 [TestNG-tests-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Starting TC001_OpenKartFirstTestCase *****
+21:42:01.882 [TestNG-tests-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** My Account clicked *****
+21:42:11.316 [TestNG-tests-2] INFO  testCases.TC002_OpenKartLogin - ********* TC002 starting login scenario ********
+21:42:38.270 [TestNG-tests-2] INFO  testCases.TC002_OpenKartLogin - ********* TC002 login scenario completed ********
+21:42:54.375 [TestNG-tests-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Register clicked *****
+21:43:44.381 [TestNG-tests-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Entering Account Details *****
+21:43:44.488 [TestNG-tests-1] ERROR testCases.TC001_OpenKartFirstTestCase - Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '15.4', java.version: '11.0.14'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [null, findElement {value=//input[@name='firstname'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 135.0.3179.54, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:51574}, msedge: {msedgedriverVersion: 135.0.3179.54 (c435295f8c13..., userDataDir: /var/folders/jf/xpfp6pcx7z7...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:51574/devtoo..., se:cdpVersion: 135.0.3179.54, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+21:47:47.786 [TestNG-tests-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Starting TC001_OpenKartFirstTestCase *****
+21:47:47.945 [TestNG-tests-3] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Starting TC001_OpenKartFirstTestCase *****
+21:47:49.727 [TestNG-tests-2] INFO  testCases.TC002_OpenKartLogin - ********* TC002 starting login scenario ********
+21:48:01.274 [TestNG-tests-3] INFO  testCases.TC001_OpenKartFirstTestCase - ***** My Account clicked *****
+21:48:03.874 [TestNG-tests-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** My Account clicked *****
+21:48:52.504 [TestNG-tests-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Starting TC001_OpenKartFirstTestCase *****
+21:48:52.957 [TestNG-tests-2] INFO  testCases.TC002_OpenKartLogin - ********* TC002 starting login scenario ********
+21:49:08.065 [TestNG-tests-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** My Account clicked *****
+21:50:00.983 [TestNG-tests-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Register clicked *****
+21:50:50.997 [TestNG-tests-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Entering Account Details *****
+21:50:51.059 [TestNG-tests-1] ERROR testCases.TC001_OpenKartFirstTestCase - Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '15.4', java.version: '11.0.14'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=xpath, value=//input[@name='firstname']}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 135.0.3179.54, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:51813}, msedge: {msedgedriverVersion: 135.0.3179.54 (c435295f8c13..., userDataDir: /var/folders/jf/xpfp6pcx7z7...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.29.159:4444/se..., se:cdpVersion: 135.0.3179.54, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+21:53:36.520 [TestNG-tests-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Starting TC001_OpenKartFirstTestCase *****
+21:53:38.798 [TestNG-tests-2] INFO  testCases.TC002_OpenKartLogin - ********* TC002 starting login scenario ********
+21:53:51.979 [TestNG-tests-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** My Account clicked *****
+21:54:44.674 [TestNG-tests-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Register clicked *****
+21:55:34.690 [TestNG-tests-1] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Entering Account Details *****
+21:55:34.754 [TestNG-tests-1] ERROR testCases.TC001_OpenKartFirstTestCase - Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '15.4', java.version: '11.0.14'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {using=xpath, value=//input[@name='firstname']}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 135.0.3179.54, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:51870}, msedge: {msedgedriverVersion: 135.0.3179.54 (c435295f8c13..., userDataDir: /var/folders/jf/xpfp6pcx7z7...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.29.159:4444/se..., se:cdpVersion: 135.0.3179.54, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
