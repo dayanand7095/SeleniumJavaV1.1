@@ -7,6 +7,7 @@
 /Users/dayanandrajuk/eclipse-workspace/SeleniumJavaV1.1/src/test/java/testCases/TC001_OpenKartFirstTestCase.java
 /Users/dayanandrajuk/eclipse-workspace/SeleniumJavaV1.1/src/test/java/testCases/TC002_OpenKartLogin.java
 /Users/dayanandrajuk/eclipse-workspace/SeleniumJavaV1.1/src/test/java/testCases/TC003_LoginDDT.java
+/Users/dayanandrajuk/eclipse-workspace/SeleniumJavaV1.1/src/test/java/testCases/TC004_Search.java
 /Users/dayanandrajuk/eclipse-workspace/SeleniumJavaV1.1/src/test/java/utilities/DataProviders.java
 /Users/dayanandrajuk/eclipse-workspace/SeleniumJavaV1.1/src/test/java/utilities/ExcelUtility.java
 /Users/dayanandrajuk/eclipse-workspace/SeleniumJavaV1.1/src/test/java/utilities/ExtentReportManager.java

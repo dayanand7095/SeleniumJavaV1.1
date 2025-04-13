@@ -168,3 +168,21 @@ Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVer
 22:32:05.050 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Entering Account Details *****
 22:32:20.588 [main] INFO  testCases.TC002_OpenKartLogin - ********* TC002 starting login scenario ********
 22:32:42.324 [main] INFO  testCases.TC002_OpenKartLogin - ********* TC002 login scenario completed ********
+23:30:40.345 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Starting TC001_OpenKartFirstTestCase *****
+23:30:54.795 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** My Account clicked *****
+23:31:46.745 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Register clicked *****
+23:32:36.761 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Entering Account Details *****
+23:32:52.215 [main] INFO  testCases.TC002_OpenKartLogin - ********* TC002 starting login scenario ********
+23:33:14.040 [main] INFO  testCases.TC002_OpenKartLogin - ********* TC002 login scenario completed ********
+08:14:34.464 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Starting TC001_OpenKartFirstTestCase *****
+08:14:45.175 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** My Account clicked *****
+08:15:35.741 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Register clicked *****
+08:16:25.754 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Entering Account Details *****
+08:16:32.630 [main] INFO  testCases.TC002_OpenKartLogin - ********* TC002 starting login scenario ********
+08:16:48.940 [main] INFO  testCases.TC002_OpenKartLogin - ********* TC002 login scenario completed ********
+08:19:37.871 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Starting TC001_OpenKartFirstTestCase *****
+08:19:48.714 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** My Account clicked *****
+08:20:39.243 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Register clicked *****
+08:21:29.253 [main] INFO  testCases.TC001_OpenKartFirstTestCase - ***** Entering Account Details *****
+08:21:36.162 [main] INFO  testCases.TC002_OpenKartLogin - ********* TC002 starting login scenario ********
+08:21:52.327 [main] INFO  testCases.TC002_OpenKartLogin - ********* TC002 login scenario completed ********
